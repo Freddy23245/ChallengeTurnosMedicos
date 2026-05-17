@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CristianB\u00E1ez\\Desktop\\CarpetaChallenge\\challenge-net\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27241159-3112-F5C9-3552-985FF251E14A}|TurnosMedicos.csproj|c:\\users\\cristianb\u00E1ez\\desktop\\carpetachallenge\\challenge-net\\backend\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27241159-3112-F5C9-3552-985FF251E14A}|TurnosMedicos.csproj|solutionrelative:controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27241159-3112-F5C9-3552-985FF251E14A}|TurnosMedicos.csproj|c:\\users\\cristianb\u00E1ez\\desktop\\carpetachallenge\\challenge-net\\backend\\models\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27241159-3112-F5C9-3552-985FF251E14A}|TurnosMedicos.csproj|solutionrelative:models\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27241159-3112-F5C9-3552-985FF251E14A}|TurnosMedicos.csproj|c:\\users\\cristianb\u00E1ez\\desktop\\carpetachallenge\\challenge-net\\backend\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27241159-3112-F5C9-3552-985FF251E14A}|TurnosMedicos.csproj|solutionrelative:models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27241159-3112-F5C9-3552-985FF251E14A}|TurnosMedicos.csproj|c:\\users\\cristianb\u00E1ez\\desktop\\carpetachallenge\\challenge-net\\backend\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27241159-3112-F5C9-3552-985FF251E14A}|TurnosMedicos.csproj|solutionrelative:models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Users\\CristianB\u00E1ez\\Desktop\\CarpetaChallenge\\challenge-net\\backend\\Models\\Turno.cs",
+              "RelativeDocumentMoniker": "Models\\Turno.cs",
+              "ToolTip": "C:\\Users\\CristianB\u00E1ez\\Desktop\\CarpetaChallenge\\challenge-net\\backend\\Models\\Turno.cs",
+              "RelativeToolTip": "Models\\Turno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:56:20.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\CristianB\u00E1ez\\Desktop\\CarpetaChallenge\\challenge-net\\backend\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "Models\\Medico.cs",
+              "ToolTip": "C:\\Users\\CristianB\u00E1ez\\Desktop\\CarpetaChallenge\\challenge-net\\backend\\Models\\Medico.cs",
+              "RelativeToolTip": "Models\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:56:06.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\CristianB\u00E1ez\\Desktop\\CarpetaChallenge\\challenge-net\\backend\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\CristianB\u00E1ez\\Desktop\\CarpetaChallenge\\challenge-net\\backend\\Models\\Paciente.cs",
+              "RelativeToolTip": "Models\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:45:45.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "C:\\Users\\CristianB\u00E1ez\\Desktop\\CarpetaChallenge\\challenge-net\\backend\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TurnosController.cs",
+              "ToolTip": "C:\\Users\\CristianB\u00E1ez\\Desktop\\CarpetaChallenge\\challenge-net\\backend\\Controllers\\TurnosController.cs",
+              "RelativeToolTip": "Controllers\\TurnosController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowKgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:10:39.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
