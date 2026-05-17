@@ -1,7 +1,7 @@
 import axios from 'axios'
 
- //const BASE_URL = 'http://devserver01.intuit.ar/test/api'
-  const BASE_URL = 'https://localhost:44352'
+ const BASE_URL = 'http://devserver01.intuit.ar/test/api'
+ //const BASE_URL = 'https://localhost:44352'
 
 
 export const turnosApi = {
